@@ -28,6 +28,6 @@ def first_element_with_array_methods(array)
   return array.first
 end
 
-def lenght_of_array(array)
+def length_of_array(array)
   return array.length
 end
